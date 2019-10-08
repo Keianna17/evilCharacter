@@ -1,0 +1,61 @@
+img {
+    width:300px;
+    height:500px;
+    display:flex;
+    align-items:center;
+    }
+    body{
+        
+        background-image:url("https://images.squarespace-cdn.com/content/v1/5148b380e4b0106646129f8e/1555960276923-30RMADYRLXZA4Z17OW5E/ke17ZwdGBToddI8pDm48kHJjM-Evnp5g-1kf5Yv15cUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcpWKe3KzaCrFDKPR1a1Ob8xobjReaxMuaKtrvUDoDmPO9EsdBHei1w8jR6w0UZiby/0006-S.jpg");
+        background-size:100%;
+ }
+
+    div {
+        font-size:30px;
+        text-align:center;
+        color:red;
+        font-family: 'Lobster', cursive;
+        }
+        
+        nav{
+            display:flex;
+            font-size:20px;
+            align-items:center;
+            justify-content:center;
+            }
+    p{
+        display:flex;
+        color:red;
+        font-family: 'Lobster', cursive;
+        align-items:center;
+        }
+        .div2{
+            display:flex;
+        }
+        .money {
+        font-size:20px;
+        text-align:center;
+        font-color:red;
+        font-family: 'Lobster', cursive; }
+
+        .merch{
+            width:500px;
+        }
+        .videos{
+            display:flex;
+            justify-content:center;
+            padding:10px;
+        }
+
+        .button {
+            background: white;
+            color: black;
+            border-radius: 20px;
+            text-decoration: none;
+            padding: 10px;
+        }
+
+        .button:hover {
+            background: yellow;
+            border-radius: 1px;
+        }
